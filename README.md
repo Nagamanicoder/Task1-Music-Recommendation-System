@@ -18,8 +18,12 @@
    python app.py
 4. Open http://127.0.0.1:5000
 
+## Demo 
+
+https://www.canva.com/design/DAGzsnLuccg/Fre1R4yMwMQwNyQfzHhQMA/edit?utm_content=DAGzsnLuccg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Notes
 - Passwords are stored in plaintext in users.json for simplicity; for production, use hashed passwords and a database.
 - Recommendation searches for songs by title/artist substring and returns top similar tracks based on TF-IDF cosine similarity.
-- I saved your uploaded dataset into `songs.csv` inside the project. Edit columns or adjust vectorization as needed.
+- I uploaded dataset into `songs.csv` inside the project. Edit columns or adjust vectorization as needed.
 
