@@ -5,7 +5,7 @@
 - A starter Flask application with:
   - Register & Login pages (simple JSON store users.json)
   - Dashboard with search input to request recommendations
-  - A content-based recommender using TF-IDF on all text columns in your `ex.csv`
+  - A content-based recommender using TF-IDF on all text columns in `ex.csv`
   - Bootstrap-based responsive UI
 
 ## How to run
